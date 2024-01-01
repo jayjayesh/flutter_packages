@@ -1,7 +1,6 @@
 name: flutter_project_base
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
 
 environment:
   sdk: '>=3.1.2 <4.0.0'
@@ -10,6 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  fpdart: ^1.1.0
   intl: ^0.19.0
 
 dev_dependencies:

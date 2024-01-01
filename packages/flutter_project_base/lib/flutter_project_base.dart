@@ -1,7 +1,8 @@
 library flutter_project_base;
 
-import 'package:flutter/widgets.dart';
+import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 
-part 'src/utility/fpb_extension.dart';
-part 'src/utility/fpb_utility.dart';
+part 'src/utility/pb_extension.dart';
+part 'src/utility/pb_utility.dart';
+part 'src/widgets/loading_indicator_widget.dart';
